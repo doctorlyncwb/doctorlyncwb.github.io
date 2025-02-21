@@ -1,0 +1,64 @@
+#url: https://y7kim.github.io
+#baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: DoctorLyn Veterinária
+email: dra.tammy@doctorlyn.com.br
+description: "Somos um grupo de atendimento veterinário clínico e preventivo que atende na cidade de Curitiba e toda região metropolitana, nossa missão é sermos os veterinários que o seu pet merece. Liderados pela Dra. Tammy Lyn formada pela UFPR no ano de 2010, temos um grupo com vasta experiência em atendimento clínico e preventivo em pequenos animais. Ligue para nós, ficaremos feliz em atendê-los."
+
+
+# Team names, titles and social links
+people:
+- name: Tammy Lyn - CRMV 9757-PR
+  pic: 1
+  position: Veterinária Responsável
+  social:
+    - title: facebook
+      url: https://facebook.com/doctorlynvet
+    - title: instagram
+      url: https://instagram.com/doctorlyn
+    - title: whatsapp
+      url: https://wa.me/5541999901124
+
+#- name: Larry Parker    color: #{{ site.data.template.color.primary }};
+
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://instagram/doctorlyn
+  - title: facebook
+    url: https://facebook.com/doctorlynvet
+  - title: github
+    url: http://github.com
+  - title: whatsapp
+    url: https://wa.me/5541999901124
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rua Limeira, 619 - Eucaliptos
+  - line: Fazenda Rio Grande, Paraná
+
+# Build settings
+markdown: kramdown
+permalink: pretty
